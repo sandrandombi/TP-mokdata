@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+tr {
+    border: 4px solid #00000046;
+    padding: 15px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    background-color: rgba(81, 226, 45, 0.884);
+}
+
+li {
+    text-align: center;
+
+}
+tbody {
+-webkit-transition: color 2s ;
+transition: color 2s;
+}
+tbody:hover{
+    color: #1eff00;
+}
